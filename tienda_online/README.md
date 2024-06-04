@@ -50,5 +50,4 @@ Nota: Esta configuración es de acceso a MySQL, se debe agregar los datos propio
  - CKEditor 5
 
 ## Autores ✒️
-- **Marco Robles** - *Desarrollo* - [mroblesdev](https://github.com/mroblesdev)
-- Ver vídeo del desarrollo de este proyecto [playlist](https://www.youtube.com/playlist?list=PL-Mlm_HYjCo-Odv5-wo3CCJ4nv0fNyl9b)
+- WifiTeam
