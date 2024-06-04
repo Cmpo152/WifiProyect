@@ -1,0 +1,42 @@
+#-------------------------
+# Operating Specific Junk Files
+#-------------------------
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows shortcuts
+*.lnk
+# Linux trash folder which might appear on any partition or disk
+.Trash-*
+
+#-------------------------
+# Environment Files
+#-------------------------
+# These should never be under version control,
+# as it poses a security risk.
+.env
+
+php_errors.log
+
+#-------------------------
+# Composer
+#-------------------------
+vendor/
+tools/
+
+# phpenv local config
+.php-version
+
+# Visual Studio Code
+.vscode/
+
+images/productos/**/*.jpg
+images/productos/**/*.png
+
+
